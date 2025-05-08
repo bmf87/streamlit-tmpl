@@ -3,7 +3,7 @@
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+A Simple Template to get started with Streamlit apps
 
 ## Demo App
 
