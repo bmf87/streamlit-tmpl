@@ -10,13 +10,8 @@ A Simple Template to get started with Streamlit apps
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
-## Section Heading
+## Streamlit Playground
 
-This is filler text, please replace this with text for this section.
+Check out the [Streamlit Playground](https://streamlit.io/playground) for a limited version of Streamlit in your browswer
 
 ## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
